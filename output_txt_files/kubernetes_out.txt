@@ -1,1 +1,16 @@
 <paste log output from Kubernetes-mediated prediction, here>
+
+NAME                           READY   STATUS    RESTARTS   AGE
+microservice-d644f66c5-6t9dm   1/1     Running   0          109s
+
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
